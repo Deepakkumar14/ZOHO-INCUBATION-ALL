@@ -1,0 +1,4 @@
+mobile Apple 6s 60000 10
+mobile motorola G 12000 5
+laptop HP elite 56000 20
+tablet google ChromeBook 8000 12
